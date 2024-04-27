@@ -22,8 +22,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soy-Nahuel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Soy-Nahuel&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soy-Nahuel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Soy-Nahuel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -34,3 +34,4 @@
 <a href="https://developers.google.com/profile/u/102102912850606896170?hl=es-419&authuser=9" target="_blank"><img src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="Google Developer" height="40" width="65"/></a>
  <a href="https://gitlab.com/Soy-Nahuel" target="_blank"><img src="https://i0.wp.com/leeno.org/wp-content/uploads/2018/06/GitLab_Logo.svg_.png?fit=960%2C887&ssl=1" alt="GitLab" height="40" width="40"/></a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=Soy-Nahuel">
