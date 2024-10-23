@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About me
 
-💡 &nbsp;I am passionate about exploring new technologies and continuously learning about programming. I have knowledge in SQL, Python, JavaScript, HTML, and CSS. I also work with C++ and C#, which allows me to handle different types of applications.\
+💡 &nbsp;I am passionate about exploring new technologies and continuously learning about programming. I have knowledge in SQL, Python, HTML, CSS and JavaScript. I also work with C++ and C#, which allows me to handle different types of applications.\
 🎓 &nbsp;I am currently studying Programming at UTU, where I am focusing on both frontend and backend development.\
 ✍️ &nbsp;In my free time, I enjoy creating websites and developing software, experimenting with different languages and tools. Additionally, I have experience with Linux and PowerShell, which helps me with system management.\
 ☀️ &nbsp;I learn quickly, which allows me to easily adapt to new technologies and take on new challenges with enthusiasm.
