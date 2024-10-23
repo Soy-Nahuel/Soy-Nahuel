@@ -12,8 +12,14 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.softel.co.jp/blogs/tech/wordpress/wp-content/uploads/2014/05/php-logo.png" alt="php" width="40" height="40"/> </a>
 
 ### 🐧 &nbsp;Command interpreter
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
-<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.enablingautomation.com/wp-content/uploads/2020/12/PowerShell-icon-large.png" alt="PowerShell" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40">
+  </a>
+  <a href="https://www.enablingautomation.com/wp-content/uploads/2020/12/PowerShell-icon-large.png" target="_blank" rel="noreferrer">
+    <img src="https://www.enablingautomation.com/wp-content/uploads/2020/12/PowerShell-icon-large.png" alt="PowerShell" width="40" height="40">
+  </a>
+</p>
 
 ### 🖥️ &nbsp;Front-End Web Development
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
