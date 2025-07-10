@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 &nbsp;About me
 
-💡 &nbsp;I am passionate about exploring new technologies and continuously learning about programming. I have knowledge in SQL, Python, HTML, CSS and JavaScript. I also work with C++ and C#, which allows me to handle different types of applications.\
-🎓 &nbsp;I am currently studying Programming at UTU, where I am focusing on both frontend and backend development.\
-✍️ &nbsp;In my free time, I enjoy creating websites and developing software, experimenting with different languages and tools. Additionally, I have experience with Linux and PowerShell, which helps me with system management.\
-☀️ &nbsp;I learn quickly, which allows me to easily adapt to new technologies and take on new challenges with enthusiasm.
+💡 &nbsp;I am passionate about exploring new technologies and continuously learning about programming. I have knowledge of SQL, NoSQL, HTML, CSS, JavaScript, React, PHP, Spring Boot, and Django. I also work with C++, C#, Python, and Java, which allows me to handle different types of applications.\
+🎓 &nbsp;Graduated as a Web Developer from UTU, I am currently studying Information Technology at UTEC. I focus on both back-end and front-end development.\
+✍️ &nbsp;In my free time, I enjoy creating websites and developing software, experimenting with different languages and tools. I also have experience with Linux and PowerShell, which helps me with system management.\
+☀️ &nbsp;I am a fast learner, which allows me to easily adapt to new technologies and face new challenges with enthusiasm.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -39,5 +39,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nahuel-tellechea-freire-818a77210/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="linkedin"/></a>
 <a href="https://developers.google.com/profile/u/102102912850606896170?hl=es-419&authuser=9" target="_blank"><img src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="Google Developer" height="40" width="65"/></a>
+  <a href="https://portfolio-b980d.web.app/" target="_blank"><img src="https://logodix.com/logo/58267.png" alt="Google Developer" height="40" width="65"/></a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=Soy-Nahuel">
