@@ -12,7 +12,7 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.softel.co.jp/blogs/tech/wordpress/wp-content/uploads/2014/05/php-logo.png" alt="php" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/mongodb/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.4xtreme.com/wp-content/uploads/2019/10/spring-boot-logo.png" alt="spring-boot" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/django/index.php" target="_blank" rel="noreferrer"> <img src="https://img.alwaysdata.com/marketplace/django.png" alt="django" width="40" height="40"/> </a>
+<!-- <a href="https://www.w3schools.com/django/index.php" target="_blank" rel="noreferrer"> <img src="https://img.alwaysdata.com/marketplace/django.png" alt="django" width="40" height="40"/> </a> -->
 
 ### 🐧 &nbsp;Command interpreter
 <p align="left">
