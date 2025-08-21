@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nahuel-tellechea-freire-818a77210/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="linkedin"/></a>
-<a href="https://developers.google.com/profile/u/102102912850606896170?hl=es-419&authuser=9" target="_blank"><img src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="Google Developer" height="40" width="65"/></a>
+<a href="https://g.dev/nahuel-tellechea-freire" target="_blank"><img src="https://www.svgrepo.com/show/353810/google-developers.svg" alt="Google Developer" height="40" width="65"/></a>
   <a href="https://portfolio-b980d.web.app/" target="_blank"><img src="https://logodix.com/logo/58267.png" alt="Google Developer" height="40" width="65"/></a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=Soy-Nahuel">
